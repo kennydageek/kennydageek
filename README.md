@@ -17,5 +17,5 @@ I'm a Frontend Engineer, Graphic designer. I'm passionate about sharing Knowledg
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=olubebe&show_icons=true&include_all_commits=true&hide_border=true" alt="Faith GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olubebei&langs_count=8&layout=compact&hide_border=true" alt="Faith GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Olubebe&show_icons=true&include_all_commits=true&hide_border=true" alt="Faith GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olubebei&langs_count=8&layout=compact&hide_border=true" alt="Faith GitHub stats" /> |
 | ------------- | ------------- |
