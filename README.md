@@ -8,7 +8,7 @@ I'm Frontend Engineer passionate about knowledge sharing, problem-solving with e
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
-- 😎 Something about me: I started coding since i was 15 years and i enjoyed it.
+- 😎 Something about me: I started coding since i was 15 years.
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
