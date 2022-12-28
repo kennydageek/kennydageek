@@ -17,7 +17,7 @@ I'm Frontend Engineer passionate about knowledge sharing, problem-solving with e
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Olubebe&show_icons=true&include_all_commits=true&hide_border=false" alt="Faith GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olubebe&langs_count=8&layout=compact&hide_border=true" alt="Faith GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Olubebe&show_icons=true&theme=radical&include_all_commits=true&hide_border=false" alt="Faith GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olubebe&langs_count=8&layout=compact&hide_border=true" alt="Faith GitHub stats" /> |
 
 
 
