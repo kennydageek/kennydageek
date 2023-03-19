@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-kehindeajibade-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kehinde-ajibade/)](https://www.linkedin.com/in/kehinde-ajibade/) [![Twitter Badge](https://img.shields.io/badge/-@Kehinde_Ajibade-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Kennyractural?t=He4orV9nfxTLyo7ZjbKwhQ&s=09)](https://twitter.com/Kennyractural?t=He4orV9nfxTLyo7ZjbKwhQ&s=09)
 
 
-I'm Frontend Engineer passionate about knowledge sharing, problem-solving with each line of code, reading and discovering new things, learning, and developing complex and fully responsive web applications.
+I'm a Frontend Engineer passionate about knowledge sharing, problem-solving with each line of code, reading and discovering new things, learning, and developing complex and fully responsive web applications.
 
 **Here's a quick summary about me**:
 
