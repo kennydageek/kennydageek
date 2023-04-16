@@ -17,20 +17,3 @@ I'm a Frontend Engineer passionate about knowledge sharing, problem-solving with
 ---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kennydageek&show_icons=true&theme=radical&include_all_commits=true&hide_border=false" alt="Kehinde GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennydageek&langs_count=8&layout=compact&hide_border=true" alt="Kenny GitHub stats" /> |
-
-name: Work Stats Readme
-
-on:
-  workflow_dispatch:
-  schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
-
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
