@@ -16,5 +16,5 @@ I'm a Frontend Engineer passionate about knowledge sharing, problem-solving with
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kennydageek&show_icons=true&theme=radical&include_all_commits=true&hide_border=false" alt="Kehinde GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennydageek&langs_count=8&layout=compact&hide_border=true" alt="Kenny GitHub stats" /> |
+<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kennydageek&show_icons=true&theme=radical&include_all_commits=true&hide_border=false" alt="Kehinde GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennydageek&langs_count=8&layout=compact&hide_border=true" alt="Kenny GitHub stats" /> | -->
 
